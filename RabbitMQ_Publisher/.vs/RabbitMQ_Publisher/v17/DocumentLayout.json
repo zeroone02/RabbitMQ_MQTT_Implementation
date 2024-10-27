@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zeroo\\Desktop\\rabbit_test\\RabbitMQ_Publisher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94D657B9-04EA-4DFA-9FAE-B369AE3A64DF}|RabbitMQ_Publisher.csproj|c:\\users\\zeroo\\desktop\\rabbit_test\\rabbitmq_publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D657B9-04EA-4DFA-9FAE-B369AE3A64DF}|RabbitMQ_Publisher.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D657B9-04EA-4DFA-9FAE-B369AE3A64DF}|RabbitMQ_Publisher.csproj|c:\\users\\zeroo\\desktop\\rabbit_test\\rabbitmq_publisher\\rabbitmq_publisher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94D657B9-04EA-4DFA-9FAE-B369AE3A64DF}|RabbitMQ_Publisher.csproj|solutionrelative:rabbitmq_publisher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMQ_Publisher",
+              "DocumentMoniker": "C:\\Users\\zeroo\\Desktop\\rabbit_test\\RabbitMQ_Publisher\\RabbitMQ_Publisher.csproj",
+              "RelativeDocumentMoniker": "RabbitMQ_Publisher.csproj",
+              "ToolTip": "C:\\Users\\zeroo\\Desktop\\rabbit_test\\RabbitMQ_Publisher\\RabbitMQ_Publisher.csproj",
+              "RelativeToolTip": "RabbitMQ_Publisher.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T11:09:58.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zeroo\\Desktop\\rabbit_test\\RabbitMQ_Publisher\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\zeroo\\Desktop\\rabbit_test\\RabbitMQ_Publisher\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:06:12.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

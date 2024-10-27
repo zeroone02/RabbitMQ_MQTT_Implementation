@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nAL0wdCoIdc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zeroo\\Desktop\\rabbit_test\\RabbitMQ_Subscriber\\RabbitMQ_Subscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zeroo\\.nuget\\packages\\mqttnet\\4.3.7.1207\\mqttnet.4.3.7.1207.nupkg.sha512"
+  ],
+  "logs": []
+}
